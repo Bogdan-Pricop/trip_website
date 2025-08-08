@@ -2,3 +2,5 @@
 node_modules
 dist
 *.log
+server/uploads
+server/data.db
